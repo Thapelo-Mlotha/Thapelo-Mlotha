@@ -1,8 +1,7 @@
 ![Banner](https://github.com/Thapelo-Mlotha/accountImages/blob/0e73e0f2751decbd3256441e1ee4a426617cd8e0/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Mlothekile</h1>
 <h3 align="center">A passionate Software and Web Developer</h3>
-<img align="right" alt="</Coding...>" width="400" scr="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWY3NjY3YzIxZmEwYWMzOGQ0NDE1MjQxNTgzMzA5OTVhYjY5NmE0MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xUA7bdpLxQhsSQdyog/giphy.gif">
-
+<!-- <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="MLOTHEKILE" align"right"> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thapelo-mlotha&label=Profile%20views&color=0e75b6&style=flat" alt="thapelo-mlotha" /> </p>
