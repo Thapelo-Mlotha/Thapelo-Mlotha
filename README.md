@@ -1,4 +1,4 @@
-![Banner]((https://github.com/Thapelo-Mlotha/accountImages/blob/0e73e0f2751decbd3256441e1ee4a426617cd8e0/github-header-image.png))
+![Banner](https://github.com/Thapelo-Mlotha/accountImages/blob/0e73e0f2751decbd3256441e1ee4a426617cd8e0/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Mlothekile</h1>
 <h3 align="center">A passionate Software and Web Developer</h3>
 <!-- <img align="right" alt="</Coding...>" width="400" scr="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazRFdVNvMlQ3WTJnRDEyelV0VXBicVNJS0ZZZ3xBQ3Jtc0tsRlFTV3ViY2lWOU1rcmU5TTFDcVNyT3NrMlVTejBrQkt3MFpnWjBDQUdTLUQ2cDhFM0ZSYlc3SDByY2NKbmlRek44RW5ncnNqM2wwR3BrSE1HRFNISmRJeHRBV1BFTF9vOGE2YVFkckNsUk9EaHUySQ&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE"> -->
