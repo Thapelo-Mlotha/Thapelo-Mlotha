@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Lavarel**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Thapelo-Mlotha/Thapelo-Mlotha](https://github.com/Thapelo-Mlotha/Thapelo-Mlotha)
+- 👨‍💻 All of my projects are available at [https://github.com/Thapelo-Mlotha](https://github.com/Thapelo-Mlotha)
 
 - 💬 Ask me about **C++**
 
